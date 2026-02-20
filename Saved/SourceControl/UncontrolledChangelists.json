@@ -1,0 +1,32 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/Unreal Projects/Hud_More/Content/NewFunctionLibrary.uasset",
+				"D:/Unreal Projects/Hud_More/Content/BluePrint/NewBlueprint.uasset",
+				"D:/Unreal Projects/Hud_More/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/8/UZ/RIPS0CT9CPCJSUF7HW0SWU.uasset",
+				"D:/Unreal Projects/Hud_More/Content/VFX/Rain.uasset",
+				"D:/Unreal Projects/Hud_More/Content/VFX/NewNiagaraSystem.uasset",
+				"D:/Unreal Projects/Hud_More/Content/Hud/NewWidgetBlueprint.uasset",
+				"D:/Unreal Projects/Hud_More/Content/LevelPrototyping/Textures/parede_de_pizzaria_antiga.uasset",
+				"D:/Unreal Projects/Hud_More/Content/LevelPrototyping/Materials/parede_de_pizzaria_nova_Mat.uasset",
+				"D:/Unreal Projects/Hud_More/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/1/EH/889Y5J2DQ4TFV626YWAJBF.uasset",
+				"D:/Unreal Projects/Hud_More/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/6/W7/KU8IO2YFYSMA5G24DXTN7O.uasset",
+				"D:/Unreal Projects/Hud_More/Content/ThirdPerson/_GENERATED/PEDREGULHO/Box_4DDCF53C.uasset",
+				"D:/Unreal Projects/Hud_More/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/1/KL/UYSRPQ5SOYIFVLEQINPH31.uasset",
+				"D:/Unreal Projects/Hud_More/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/C/27/6ZCCZ1F7ZO6DM3C8OLVGTF.uasset",
+				"D:/Unreal Projects/Hud_More/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/D/13/EPTYZCFZWXT7Z7XYKZ88XK.uasset",
+				"D:/Unreal Projects/Hud_More/Content/LevelPrototyping/Materials/parede_de_pizzaria_antiga_Mat.uasset",
+				"D:/Unreal Projects/Hud_More/Content/LevelPrototyping/Textures/parede_de_pizzaria_nova.uasset",
+				"D:/Unreal Projects/Hud_More/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/5/20/DRYE9RR4AQZLZ0WBGIKL8P.uasset",
+				"D:/Unreal Projects/Hud_More/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/B/HX/PES0ONLF01PSQTJCC5USD2.uasset",
+				"D:/Unreal Projects/Hud_More/Content/LevelPrototyping/Textures/parede_de_pizzaria_antiga_Mat.uasset",
+				"D:/Unreal Projects/Hud_More/Content/LevelPrototyping/Textures/parede_de_pizzaria_nova_Mat.uasset",
+				"D:/Unreal Projects/Hud_More/Content/NewMacroLibrary.uasset"
+			]
+		}
+	]
+}
